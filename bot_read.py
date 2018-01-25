@@ -1,6 +1,6 @@
 import praw
 
-reddit = praw.Reddit('trialbot')
+reddit = praw.Reddit('bot')
 
 subreddit = reddit.subreddit("movies")
 
